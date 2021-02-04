@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Major Projects
 
-You can use the [editor on GitHub](https://github.com/samuelflock/samuelflock.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **[Operation Siren](https://github.com/samuelflock/OperationSiren)** Music bot developed for Discord using C# and Discord.Net, a 3rd party API for Discord Developers.
+- **[Java Encryptions](https://github.com/samuelflock/Encryptions)** Mini-encryptions developed in Java which uses different fundamental encrption ideas.
+- **[Trading Bot](https://github.com/samuelflock/TradingBot-Python)** The beginning of a stock trading bod develped in Python.
 
 ### Markdown
 
