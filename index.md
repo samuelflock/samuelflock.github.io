@@ -1,10 +1,10 @@
 ## Major Projects
 
-- **[Operation Siren](https://github.com/samuelflock/OperationSiren)** - Discord Music Bot
+**[Operation Siren](https://github.com/samuelflock/OperationSiren)** - Discord Music Bot
 
-- **[Java Encryptions](https://github.com/samuelflock/Encryptions)** Mini-encryptions developed in Java
+**[Java Encryptions](https://github.com/samuelflock/Encryptions)** - Mini-encryptions developed in Java
 
-- **[Trading Bot](https://github.com/samuelflock/TradingBot-Python)** Python Stock Trading Bot
+**[Trading Bot](https://github.com/samuelflock/TradingBot-Python)** - Python Stock Trading Bot
 
 ### Markdown
 
