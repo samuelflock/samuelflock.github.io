@@ -1,8 +1,10 @@
 ## Major Projects
 
-- **[Operation Siren](https://github.com/samuelflock/OperationSiren)** Music bot developed for Discord using C# and Discord.Net, a 3rd party API for Discord Developers.
-- **[Java Encryptions](https://github.com/samuelflock/Encryptions)** Mini-encryptions developed in Java which uses different fundamental encrption ideas.
-- **[Trading Bot](https://github.com/samuelflock/TradingBot-Python)** The beginning of a stock trading bod develped in Python.
+- **[Operation Siren](https://github.com/samuelflock/OperationSiren)** - Discord Music Bot
+
+- **[Java Encryptions](https://github.com/samuelflock/Encryptions)** Mini-encryptions developed in Java
+
+- **[Trading Bot](https://github.com/samuelflock/TradingBot-Python)** Python Stock Trading Bot
 
 ### Markdown
 
