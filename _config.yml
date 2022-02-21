@@ -1,3 +1,4 @@
-theme: jekyll-theme-merlot
-title: Samuel Flock - Projects
-description: <br>Projects range from mini-encryption algos. to music bots
+#theme: jekyll-theme-merlot
+remote_theme: volny/creative-theme-jekyll
+title: Samuel Flock - Portfolio
+description: 'From Mini-Encryption Algos. to Bots to Video Production'
