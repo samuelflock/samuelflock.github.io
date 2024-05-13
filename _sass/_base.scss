@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/WoodBackground3.jpg') linear-gradient(rgba(black, 0.5), rgba(black, 0.5));
+    background-image: url('../img/WoodBackground3.jpg'), linear-gradient(rgba(black, 0.5), rgba(black, 0.5));
     text-align: center;
     color: white;
     .header-content {
