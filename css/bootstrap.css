@@ -3881,7 +3881,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
   text-decoration: none;
   cursor: not-allowed;
-  /*background-color: transparent;*/
+  background-color: transparent;
 }
 .nav .open > a,
 .nav .open > a:hover,
